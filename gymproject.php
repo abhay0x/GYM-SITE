@@ -123,7 +123,7 @@ $number=$_POST['number'];
 $servername="localhost";
 $username="root";
 $password="";
-$database="gym";
+$database="";
 
 $conn=mysqli_connect($servername ,$username , $password , $database );
 
